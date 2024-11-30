@@ -42,7 +42,6 @@ class Home extends Component {
         <button
           className="start-button"
           type="button"
-          testid="loader"
           onClick={this.handleStartButtonClick}
         >
           Start Quiz
